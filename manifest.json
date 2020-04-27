@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Ticket2Branch",
-    "version": "1.0",
+    "version": "1.0.1",
     "author": "Rafael Almeida",
     "description": "Turn a sentence into a branch name. (i.e.: Enable this new feature -> enable-this-new-feature)",
     "icons": {
